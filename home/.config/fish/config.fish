@@ -1,0 +1,2 @@
+fish_vi_mode
+source_config_d
