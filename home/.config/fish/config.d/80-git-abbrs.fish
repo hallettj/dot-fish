@@ -1,5 +1,7 @@
 abbr -a add='git add -p'
 abbr -a commit='git commit'
+abbr -a ci='git commit'
+abbr -a co='git checkout'
 abbr -a pull='git pull'
 abbr -a push='git push'
 abbr -a show='git show'
